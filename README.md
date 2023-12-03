@@ -6,4 +6,4 @@ A ideia da aplicação é bem simples:
 Resultado - Bom para os negócios, melhor ainda para o planeta.
 
 Neste projeto, pude trabalhar com a equipe - Aline Mendonça e Vinicius Garcia.
-Confira o nosso projeto em: https://lnkd.in/dWibVSnu
+Confira o nosso projeto em: https://eatsmartm3.vercel.app/
